@@ -4,4 +4,5 @@ obi
 grace
 oben
 patric
-kemi
+kemi 
+list.txt deploy in staging 
