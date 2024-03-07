@@ -4,5 +4,7 @@ obi
 grace
 oben
 patric
+kemi 
+list.txt deploy in staging 
 kemi
 modified list.txt 
